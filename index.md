@@ -1,6 +1,10 @@
-# 🌍 Web Content Management Course
+---
+title: "🌍 Web Content Management Course"
+---
 
-Welcome to the **Web Content Management** course! 🚀 This course will guide you through modern content management techniques, tools, and best practices for developers and IT professionals.
+Welcome to the **Web Content Management** course! 
+
+🚀 This course will guide you through modern content management techniques, tools, and best practices for developers and IT professionals.
 
 ---
 
@@ -36,12 +40,5 @@ Welcome to the **Web Content Management** course! 🚀 This course will guide yo
 🎯 Content Strategists
 🎯 Digital Archivists
 🎯 Anyone interested in **content-driven** applications
-
----
-
-## 🚀 Get Started
-
-📌 **Course Repository:** [GitHub](https://github.com/your-repo)
-📌 **Live Demo:** [GitHub Pages](https://your-github-username.github.io/web-content-management)
 
 > 💡 *Join us and take your web content skills to the next level!* ✨
