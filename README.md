@@ -9,7 +9,7 @@ Welcome to the **Web Content Management** course! 🚀 This course will guide yo
 ✅ **Content Management for Developers** – Learn how to structure and manage content efficiently.  
 
 ✅ **Accessibility & Usability** – Ensure your web content is inclusive and user-friendly.  
-ь
+
 ✅ **Digital Preservation** – Explore strategies for long-term content storage.  
 
 ✅ **Enterprise Solutions** – Understand corporate content management with tools like **DITA** & **SharePoint**.  
