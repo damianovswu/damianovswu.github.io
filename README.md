@@ -51,7 +51,7 @@ Welcome to the **Web Content Management** course! 🚀 This course will guide yo
 
 ## 🚀 Get Started
 
-📌 **Course Repository:** [GitHub](https://github.com/your-repo)
-📌 **Live Demo:** [GitHub Pages](https://your-github-username.github.io/web-content-management)
+📌 **Course Repository:** [GitHub](https://github.com/damianovswu)
+📌 **Live Demo:** [GitHub Pages](https://damianovswu.github.io)
 
 > 💡 *Join us and take your web content skills to the next level!* ✨
