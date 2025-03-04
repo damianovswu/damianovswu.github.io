@@ -1,57 +1,49 @@
-# 🌍 Web Content Management Course
+# GitHub Pages Repository - DamyanovSWU
 
-Welcome to the **Web Content Management** course! 🚀 This course will guide you through modern content management techniques, tools, and best practices for developers and IT professionals.
+Welcome to the **DamyanovSWU GitHub Pages** repository! This repository hosts a static website powered by [GitHub Pages](https://pages.github.com/) and utilizes the **Jekyll theme `jekyll-theme-cayman`**.
 
----
+> [!Caution]
+> **This repository is public. Do not commit any sensitive data, credentials, or personal information.**
 
-## 📌 Course Highlights
+## About This Repository
+This repository was created for **demonstration purposes** as part of the _Web Content Management_ course (module: **Content Management for Developers**). It showcases the capabilities of GitHub Pages and Jekyll as a static site generator using Markdown as the primary template rendering language.
 
-✅ **Web Content** – Basic principles on the Web.  
+## Features
+- 📄 **Static site hosting** using GitHub Pages
+- 🎨 **Jekyll-powered** site with `jekyll-theme-cayman`
+- 📝 **Markdown-based** content management
+- 🚀 **Easy deployment** through GitHub
 
-✅ **Technical aspects** – WHE, Control Panels, Technology Stacks, Content Types (MIME), Caching and CDN.  
+## How to View the Website
+To access the deployed site, navigate to:
+```
+https://damianovswu.github.io/
+```
 
-✅ **Enterprise Solutions** – Understand corporate content management with tools like **DITA** & **SharePoint**.  
+## How to Use
+### 1. Clone the Repository
+```sh
+git clone https://github.com/damianovswu/damianovswu.github.io.git
+cd damianovswu.github.io
+```
 
-✅ **Content Management for Developers** – Learn how to structure and manage content efficiently for your projects and infrastructure.  
+### 2. Modify Content
+Edit the Markdown (`.md`) files to update the site content. You can also modify `_config.yml` to change the Jekyll theme or settings.
 
-✅ **Five layers of UX** – Learn how to build your content bottom-up.  
+### 3. Commit and Push Changes
+```sh
+git add .
+git commit -m "Updated content"
+git push origin main
+```
 
-✅ **Beyond the Content** – Extend your knowledge on navigations principles, localizations, personalizations.  
+GitHub Pages will automatically deploy the latest changes.
 
-✅ **SEO** – Learn how improve your visibility.  
+## Contribution
+If you wish to contribute or suggest improvements, feel free to fork the repository, make changes, and submit a pull request.
 
-✅ **Accessibility & Usability** – Ensure your web content is inclusive and user-friendly.  
-
-✅ **Digital Preservation** – Explore strategies for long-term content storage.  
-
-
-
-> ⚠️ *No prior CMS experience required!*
-
----
-
-## 📅 Course Outline
-
-1. 📖 Introduction to Web Content Management
-2. 🛠️ CMS for Developers: WordPress, Headless CMS, and Static Site Generators
-3. ♿ Accessibility & SEO Best Practices
-4. 💾 Digital Preservation & Archiving Strategies
-5. 🏢 Enterprise Content Management with SharePoint, DITA, and more
-
----
-
-## 🏆 Who Should Enroll?
-
-🎯 Developers & IT Professionals
-🎯 Content Strategists
-🎯 Digital Archivists
-🎯 Anyone interested in **content-driven** applications
+## License
+This repository is for educational purposes and follows the standard open-source practices. Please ensure compliance with the course guidelines before contributing.
 
 ---
-
-## 🚀 Get Started
-
-📌 **Course Repository:** [GitHub](https://github.com/damianovswu)
-📌 **Live Demo:** [GitHub Pages](https://damianovswu.github.io)
-
-> 💡 *Join us and take your web content skills to the next level!* ✨
+🆔
