@@ -15,10 +15,8 @@ This repository was created for **demonstration purposes** as part of the _Web C
 - 🚀 **Easy deployment** through GitHub
 
 ## How to View the Website
-To access the deployed site, navigate to:
-```
-https://damianovswu.github.io/
-```
+To access the deployed site, navigate to: [https://damianovswu.github.io/](https://damianovswu.github.io/)
+
 
 ## How to Use
 ### 1. Clone the Repository
